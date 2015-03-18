@@ -1,5 +1,6 @@
 
 ## JWT Authentication for Rails.
+### This gem is under development. If you see this message, do not use it.
 
 This gem provides the following features:
 
